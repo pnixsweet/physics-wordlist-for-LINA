@@ -1,0 +1,778 @@
+absolute acceleration 绝对加速度
+absolute error 绝对误差
+absolute motion 绝对运动
+absolute temperature 绝对温度
+absolute velocity 绝对速度
+absolute zero 绝对零度
+absorption 吸收
+absorptivity 吸收率
+accelerated motion 加速运动
+acceleration of gravity 重力加速度
+acceleration 加速度
+accidental error 偶然误差
+acoustics 声学
+acting force 作用力
+adjustment 调节
+aether 以太
+air pump 抽气机
+air table 气垫桌
+air track 气垫导轨
+alternating current circuit 交流电路
+alternating current generator 交流发电机
+alternating current 交流电
+altimeter 测高仪
+ammeter 安培计
+amperemeter 电流计
+ampere 安培
+Ampere's experiment 安培实验
+Ampere's force 安培力
+Ampere's law 安培定律
+amperemeter 安培计
+amplitude 振幅
+angle of rotation 自转角，转动角
+angular acceleration 角加速度
+angular displacement 角位移
+angular velocity 角速度
+anion 负离子
+anisotropy 各向异性
+annihilation 湮没
+anode 阳极
+antenna 天线
+applied physics 应用物理学
+Archimedes principle 阿基米德原理
+area 面积
+argumentation 论证
+argument 辐角
+astigmatoscope 散光镜
+atomic nucleus 原子核
+atomic physics 原子物理学
+atomic spectrum 原子 光谱
+atomic structure 原子结构
+atom 原子
+Atwood ' s machine 阿特伍德机
+average power 平均功率
+average velocity 平均速度
+Avogadro constant 阿伏加德罗常数
+Avogadro law 阿伏加德罗定律
+balance 天平
+ballistic galvanometer 冲击电流计
+band spectrum 带状谱
+barometer 气压计
+basic quantity 基本量
+basic units 基本单位
+battery charger 电池充电器
+battery,accumulator 蓄电池
+battery 电池组
+beam 光束
+betatron 电子感应加速器
+Bohr atom model 玻尔原子模型
+boiling point 沸点
+boiling 沸腾
+bounce 反弹
+bound charge 束缚电荷
+bound electron 束缚电子
+branch circuit 支路
+breakdown 击穿
+brightness 亮度
+buoyancy force 浮力
+calorifics 热学
+camera 照相机
+capacitance 电容
+capacitor 电容器
+capillarity 毛细现象
+cathode ray 阴极射线
+cathode-ray tube 阴极射线管
+cathode 阴极
+cation 正离子
+cell 电池
+Celsius scale 摄氏温标
+centre of gravity 重心
+centre of mass 质心
+centrifugal force 离心力
+centripetal acceleration 向心加速度
+centripetal force 向心力
+chain reaction 链式反应
+chaos 混沌
+characteristic spectrum 特征光谱
+charged body 带电体
+charged particle 带电粒子
+charge 充电
+circular hole diffraction 圆孔衍射
+circular motion 圆周运动
+classical mechanics 经典力学
+classical physics 经典物理学
+cloud chamber 云室
+coefficient of maximum static friction 最大静摩摩系数
+coefficient of restitution 恢复系数
+coefficient of sliding friction 滑动摩擦系数
+coefficient 系数
+coherent light 相干光源
+coil 线圈
+collision 碰撞
+component force 分力
+component velocity 分速度
+composition of forces 力的合成
+composition of velocities 速度的合成
+compression 压缩
+concave lens 凹透镜
+concave mirror 凹面镜
+concurrent force 共点力
+condensation 凝结
+condenser 电容器
+conducting medium 导电介质
+conductor 导体
+conservative force field 保守力场
+conservative force 保守力
+constant force 恒力
+constant 常量
+continuous spectrum 连续谱
+convergent lens 会聚透镜
+convex lens 凸透镜
+convex mirror 凸面镜
+coordinate system 坐标系
+coplanar force 共面力
+Corolis force 科里奥利力
+corpuscular property 粒子性
+corpuscular theory 微粒说
+Coulomb force 库仑力
+coulomb 库仑
+Coulomb's law 库仑定律
+counter 计数器
+creation 产生
+creepage 漏电
+crest 波峰
+critical angle 临界角
+critical resistance 临界电阻
+critical temperature 临界温度
+crystal 晶体
+current density 电流密度
+current element 电流元
+current source 电流源
+current strength 电流强度
+curvilinear motion 曲线运动
+cyclotron 回旋加速器
+damped vibration 阻尼振动
+damping 阻尼
+Daniell cell 丹聂耳电池
+data processing 数据处理
+data 数据
+decay 衰变
+definition of ampere 安培的定义
+defocusing 散集
+density 密度
+derived quantity 导出量
+derived unit 导出单位
+dielectric 电介质
+diffraction pattern 衍射图样
+diffraction 衍射
+diffuse reflection 漫反射
+digital timer 数字计时器
+dimensional exponent 量纲指数
+dimension 量纲
+diode 二级管
+diopter 屈光度
+direct current, DC 直流
+direct impact 正碰
+direct measurement 直接测量
+discharge 放电
+disorder 无序
+dispersion 色散
+displacement 位移
+divergent lens 发散透镜
+Doppler effect 多普勒效应
+double slit diffraction 双缝衍射
+driving force 驱动力
+dry cell 干电池
+echo 回声
+eddy current 涡流
+effective value 有效值
+elastic body 弹性体
+elastic force 弹［性］力
+elasticity 弹性
+electric charge 电荷
+electric circuit 电路
+electric corona 电晕
+electric energy 电能
+electric field 电场
+electric field intensity 电场强度
+electric field line 电场线
+electric flux 电通量
+electric leakage 漏电
+electric neutrality 电中性
+electric potential 电位，电势
+electric potential difference 电位差，电势差
+electric potential energy 电位能
+electric power 电功率
+electric quantity 电量
+electrification 起电
+electrification by friction 摩擦起电
+electrified body 带电体
+electrode 电极
+electrolysis 电解
+electrolyte 电解质
+electromagnetic damping 电磁阻尼
+electromagnetic induction 电磁感应
+electromagnetic radiation 电磁辐射
+electromagnetic wave 电磁波
+electromagnetic wave spectrum 电磁波谱
+electromagnetism induction phenomenon 电磁感应现象
+electromagnet 电磁体
+electrometer 静电计
+electromotive force 电动势
+electron 电子
+electron beam 电子束
+electron cloud 电子云
+electron microscope 电子显微镜
+electron volt 电子伏特
+electroscope 验电器
+electrostatic equilibrium 静电平衡
+electrostatic induction 静电感应
+electrostatic screening 静电屏蔽
+elementary charge 基本电荷，元电荷
+energy 能量
+energy level 能级
+equilibrium 平衡
+equilibrium condition 平衡条件
+equilibrium of forces 力的平衡
+equilibrium position 平衡位置
+equilibrium state 平衡态
+equivalent source theorem 等效电源定理
+erect image 正像
+error 误差
+ether 以太
+evaporation 蒸发
+excitation 激发
+excitation state 激发态
+experiment 实验
+experimental physics 实验物理学
+external force 外力
+eyepiece 目镜
+far sight 远视
+Faraday cylinder 法拉第圆筒
+Faraday law of electromagnetic induction 法拉第电磁感应定律
+Faraday's law of electromagnetic induct 法拉第电磁感应定律
+farad 法拉(电容的单位)
+film interference 薄膜干涉
+final velocity 末速度
+first cosmic velocity 第一宇宙速度
+fission 裂变
+fixed-axis rotation 定轴转动
+flotation balance 浮力秤
+fluid 流体
+focal length 焦距
+focusing 调焦，聚焦
+focus 焦点
+force 力
+forced vibration 受迫振动
+fractal 分形
+free charge 自由电荷
+free electron 自由电子
+free period 自由周期
+freezing point 凝固点
+frequency 频率
+friction force 摩擦力
+fusion 聚变
+galvanometer 电流计
+gas 气体
+general physics 普通物理学
+generator 发电机
+good conductor 良导体
+gravitation 引力
+gravity 重力
+gravitational potential energy 重力势能
+gravity field 重力场
+ground earth 接地
+ground state 基态
+ground wire 地线
+hadron 强子
+half life period 半衰期
+heat 热
+heat transfer 传热
+henry 亨利
+hertz 赫兹(频率的单位)
+Hooke law 胡克定律
+humidity 湿度
+hydrogen 氢原子
+hypothesis 假设
+ice point 冰点
+ideal gas 理想气体
+image 像
+image distance 像距
+image height 像高
+imaging 成像
+imperfect inelastic collision 非完全弹性碰撞
+impulse 冲量
+incident angle 入射角
+incident ray 入射线
+indirect measurement 间接测量
+induced electric current 感应电流
+induced electric field 感应电场
+induction current 感应电流
+induction electromotive force 感应电动势
+induction motor 感应电动机
+inertia 惯性
+inertial force 惯性力
+inertial system 惯性系
+infrared ray 红外线
+infrasonic wave 次声波
+initial phase 初位相
+initial velocity 初速度
+input 输入
+instantaneous power 瞬时功率
+instantaneous velocity 瞬时速度
+instrument 仪器
+insulated conductor 绝缘导体
+insulating medium 绝缘介质
+insulator 绝缘体
+intensity of sound 声强
+interference 干涉
+interference fringe 干涉条纹
+interference pattern 干涉图样
+interferometer 干涉仪
+internal energy 内能
+internal force 内力
+internal resistance 内阻
+intonation 声调
+inverted image 倒像
+invisible light 不可见光
+ion beam 离子束
+ionization 电离
+irreversible process 不可逆过程
+isobaric process 等压过程
+isobar 等压线
+isochoric process 等体积过程
+isothermal 等温线
+isothermal process 等温过程
+isotope 同位素
+isotropy 各向同性
+joule 焦耳（功的单位）
+Joule heat 焦耳热
+Joule law 焦耳定律
+Joule' law 焦耳定律
+Kepler law 开普勒定律
+kinematics 运动学
+kinetic energy 动能
+Laplace's equation 拉普拉斯方程
+laser 激光，激光器
+law 定律
+law of conservation of angular momentum 角动量守恒定律
+law of conservation of energy 能量守恒定律
+law of conservation of mass 质量守恒定律
+law of conservation of mechanical energy 机械能守恒定律
+law of conservation of momentum 动量守恒定律
+law of electric charge conservation 电荷守恒定律
+Le Système International d ` Unit è s 国际单位制(SI)
+lead 导线
+length 长度
+lens 透镜
+lens formula 透镜公式
+Lenz's law 楞次定律
+lepton 轻子
+Light ray 光线
+light source 光源
+light wave 光波
+lightning rod 避雷针
+light 光
+line spectrum 线状谱
+lines of current 电流线
+lines of force of electric field 电力线
+liquefaction 液化
+liquefaction point 液化点
+liquid 液体
+longitudinal wave 纵波
+loop 回路
+Lorentz force 洛仑兹力
+luminous intensity 发光强度
+magnetic field 磁场
+magnetic field intensity 磁场强度
+magnetic field line 磁场线
+magnetic induction flux 磁感应通量
+magnetic induction 磁感应强度
+magnetic induction line 磁感应线
+magnetic material 磁性材料
+magnetic needle 磁针
+magnetic pole 磁极
+magnetics 磁学
+magnetism 磁学
+magnetization 磁化
+magnet 磁体
+magnification 放大率
+magnifier 放大镜，放大器
+manometer 流体压强计
+mass 质量
+mass defect 质量亏损
+mass-energy equation 质能方程
+matter 物质
+matter wave 物质波
+Maxwell's equations 麦克斯韦方程组
+mean speed 平均速率
+mean velocity 平均速度
+measurement 测量
+mechanical energy 机械能
+mechanical motion 机械运动
+mechanical vibration 机械振动
+mechanics 力学
+medium 介质
+melting fusion 熔化
+melting point 熔点
+metre rule 米尺
+microdetector 灵敏电流计
+micrometer caliper 螺旋测微器
+microscope 显微镜
+microscopic particle 微观粒子
+mirror reflection 镜面反射
+mirror 镜
+mixed unit system 混合单位制
+modern physics 现代物理学
+molar volume 摩尔体积
+molecular spectrum 分子光谱
+molecular structure 分子结构
+moment of force 力矩
+momentum of electromagnetic field 电磁场的动量
+momentum 动量
+motor 电动机
+multimeter 多用［电］表
+musical quality 音色
+N pole 北极
+natural frequency 固有频率
+natural light 自然光
+negative charge 负电荷
+negative crystal 负晶体
+negative ion 负离子
+negative plate 负极板
+network 网络
+neutralization 中和
+neutron 中子
+newton 牛顿（力的单位）
+Newton first law 牛顿第一定律
+Newton second law 牛顿第二定律
+Newton third law 牛顿第三定律
+nonequilibrium state 非平衡态
+north pole 北极
+nucleus force 核力
+nucleus of condensation 凝结核
+object 物
+object distance 物距
+object height 物高
+objective 物镜
+observation 观察
+Oersted's experiment 奥斯特实验
+ohm 欧姆
+Ohm law 欧姆定律
+ohmmeter 欧姆计
+Ohm's law 欧姆定律
+open circuit 开路
+optical bench 光具座
+optical centre of lens 透镜光心
+optical fiber 光导纤维
+optical glass 光学玻璃
+optical instrument 光学仪器
+optical lever 光杠杆
+optical path difference 光程差
+optical path 光程(路)
+optically denser medium 光密介质
+optically thinner medium 光疏介质
+optics 光学
+orbit 轨道
+order 有序
+oscillograph 示波器
+output 输出
+overweight 超重
+parallel connection of condensers 电容器的并联
+parallelogram rule 平行四边形定律
+parallel-resonance circuit 并联谐振电路
+parameter 参量
+particle 质点，粒子
+Pascal law 帕斯卡定律
+path 路程
+peak 峰值
+pendulum 摆
+penumbra 半影
+perfect conductor 理想导体
+perfect elastic collision 完全弹性碰撞
+perfect inelastic collision 完全非弹性碰撞
+periodicity 周期性
+period 周期
+periscope 潜望镜
+permanent magnet 永磁体
+permittivity of vacuum 真空介电常数
+permittivity 电容率
+phase 位相
+phenomenon 现象
+photocurrent 光电流
+photoelectric cell 光电管
+photoelectric effect 光电效应
+photoelectron 光电子
+photography 照相术
+photon 光子
+physical balance 物理天平
+physical quantity 物理量
+physics 物理学
+piezometer 压强计
+pitch 音调
+Planck constant 普朗克常量
+plasma 等离子体
+point charge 点电荷
+polarization 偏振
+polarized light 偏振光
+polycrystal 多晶体
+poor conductor 不良导体
+positive charge 正电荷
+positive crystal 正晶体
+positive ion 正离子
+positive plate 正极板
+positron 正电子
+potential energy 势能
+potentiometer 电位差计
+power 功率
+pressure 压强，压力
+primary coil 原线圈
+principle of constancy of light velocity 光速不变原理
+prism 棱镜
+projectile 抛体
+projectile motion 抛体运动
+projector 投影仪
+proton 质子
+pulley 滑轮
+pulley block 滑轮组
+quantity of heat 热量
+quantization 量子化
+quantum 量子
+quantum mechanics 量子力学
+quantum number 量子数
+radar 雷达
+radioactive source 放射源
+radius of gyration 回旋半径
+random motion 无规则运动
+range 量程
+rated voltage 额定电压
+reacting force 反作用力
+real image 实像
+real object 实物
+reasoning 推理
+recoil 反冲
+rectilinear motion 直线运动
+reference frame. 参考系，坐标系
+reference system 参考系
+reflected angle 反射角
+reflected ray 反射线
+reflection coefficient 反射系数
+reflection law 反射定律
+reflectivity 反射率
+refracted angle 折射角
+refracted ray 折射线
+refraction law 折射定律
+refraction coefficient 折射系数
+refractive index 折射率
+relative acceleration 相对加速度
+relative error 相对误差
+relative motion 相对运动
+relative velocity 相对速度
+relativity 相对论
+resistance 电阻
+resistance box 电阻箱
+resistivity 电阻率
+resistor 电阻［器］
+resolution of force 力的分解
+resolution of velocity 速度的分解
+resonance 共振，共鸣
+resonant frequency 共振频率
+resultant force 合力
+resultant velocity 合速度
+reversibility of optical path 光路可逆性
+reversible process 可逆过程
+rheostat 变阻器
+right-hand screw rule 右手螺旋定则
+rocker 火箭
+rotating magnetic field 旋转磁场
+rotation 自转，转动
+Rutherford scattering 卢瑟福散射
+Rutherford ［α-particle scattering］ experiment 卢瑟福［α散射］实验
+S pole 南极
+saturation 饱和
+scalar 标量
+scalar field 标量场
+scanner 扫描器
+second cosmic velocity 第二宇宙速度
+selective absorption 选择吸收
+self-induced electromotive force 自感电动势
+self-inductance 自感
+self-induction phenomenon 自感系数
+semiconductor 半导体
+semi-transparent film 半透膜
+sensitive galvanometer 灵敏电流计
+sensitivity 灵敏度
+sensitometer 感光计
+sensor 传感器
+series connection of condensers 电容器的串联
+series-resonance circuit 串联谐振电路
+short circuit 短路
+short sight 近视
+shunt resistor 分流电阻
+significant figure 有效数字
+simple harmonic motion (SHM) 简谐运动
+simple harmonic wave 简谐波
+simple pendulum 单摆
+single crystal（monocrystal） 单晶体
+single slit diffraction 单缝衍射
+sinusoidal alternating current 简谐交流电
+sinusoidal current 正弦式电流
+sliding friction 滑动摩擦
+slit 狭缝
+solar cell 太阳能电池
+solenoid 螺线管
+solidification 凝固
+solidifying point 凝固点
+solid 固体
+solution 溶液
+solvation 溶解
+sonar 声纳
+sound source 声源
+sound velocity 声速
+sound wave 声波
+sound 声［音］
+source 电源
+south pole 南极
+space 空间
+spark discharge 火花放电
+special relativity 狭义相对论
+specific heat capacity 比热容
+spectacles 眼镜
+spectral analysis 光谱分析
+spectral line ［光］谱线
+spectrograph 摄谱仪
+spectrography 摄谱学
+spectroscopy 光谱学
+spectrum 光谱
+speed 速率
+spherical mirror 球面镜
+spontaneous radiation 自发辐射
+spring balance 弹簧秤
+stability 稳定性
+stabilized current supply 稳流电源
+stabilized voltage supply 稳压电源
+standard atmospheric pressure 标准大气压
+standard cell 标准电池
+standing wave 驻波
+static friction 静摩擦
+stationary state 定态
+steady current 恒定电流
+steady current source 恒流源
+steady voltage source 恒压源
+steam point 汽点
+stiffness 劲度［系数］
+stimulated radiation 受激辐射
+stop watch 停表
+sublimation 升华
+superconductivity 超导［电］性
+superconductor 超导体
+superposition principle of electric field 电场强度叠加原理
+superposition theorem 叠加定律
+supersaturation 过度饱和
+supersonic speed 超声速
+supersonic wave 超声波
+supply transformer 电源变压器
+surface resistance 表面电阻
+switch 开关
+system of concurrent forces 共点力系
+system of particles 质点系
+system of units 单位制
+systematic error 系统误差
+telescope 望远镜
+temperature 温度
+tension 张力
+the law of gravity 万有引力定律
+theorem 原理
+theorem of kinetic energy 动能定理
+theorem of momentum 动量定理
+theoretical physics 理论物理学
+theory 理论
+thermal capacity 热容［量］
+thermal equilibrium 热平衡
+thermal motion 热运动
+thermal transmission 传热
+thermodynamic scale ［of temperature］ 热力学温标
+thermodynamic temperature 热力学温度
+thermometer 温度计
+thermometric scale 温标
+thermonuclear reaction 热核反应
+thick lens 厚透镜
+thin lens 薄透镜
+third cosmic velocity 第三宇宙速度
+three-phase alternating current 三相［交变］电流
+time 时间
+timer 定时器，计时器
+torsion balance 扭秤
+total reflection 全反射
+trajectory 轨道
+transformer 变压器
+transistor 晶体管
+transition 跃迁
+translation 平移
+transmission line 传输线
+transmissivity 透射率
+transverse wave 横波
+triboelectrification 摩擦起电
+triode 三极管
+trough 波谷
+tuning fork 音叉
+turbulent flow 湍流
+ultrasound wave 超声波
+ultraviolet ray 紫外线
+umbra 本影
+undulatory property 波动性
+uniform. dielectric 均匀电介质
+uniform. motion 匀速运动
+unit 单位
+unit system 单位制
+universal constant 普适常量
+universal gravitation 万有引力
+universal meter 多用［电］表
+vacuum tube 真空管
+vacuum 真空
+value of amplitude 幅值
+vaporization 汽化
+variable 变量
+vector 矢量
+velocity of light 光速
+velocity 速度
+verification 验证
+vernier 游标
+vernier caliper 游标卡尺
+vibration 振动
+viewing angle 视角
+viewing field 视场
+virtual image 虚像
+virtual object 虚物
+virtual value 有效值
+visibility 可见度
+visible light 可见光
+voltage 电压
+voltage division circuit 分压电路
+voltaic cell 伏打电池
+voltmeter 伏特计
+voltmeter-ammeter method 伏安法
+volt 伏特
+volume 体积
+vortex electric field 涡旋电场
+watt 瓦特
+wave equation 波动方程
+wave theory 波动说
+wavelength 波长
+wave-particle dualism 波粒二象性
+wave 波
+weight 重量
+weightlessness 失重
+white light 白光
+work 功
+work function 逸出功
+X-ray X射线
+Young experiment 杨氏实验
+zero line 零线
+α -decay α衰变
+α -particle α粒子
+α -ray α射线
+β -decay β衰变
+β -ray β射线
+γ -decay γ衰变
+γ -ray γ射线
